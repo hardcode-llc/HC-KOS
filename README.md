@@ -151,7 +151,3 @@ Contact
 -------
 Hard Code LLC (HC-LLC) — https://github.com/hardcode-llc
 
-If you'd like, I can now:
-- Add an MIT `LICENSE` file and commit it.
-- Add a `VERSION` file or `pyproject.toml` with version metadata.
-- Implement disk mapping persistence.
